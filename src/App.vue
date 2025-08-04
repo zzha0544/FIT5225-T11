@@ -41,6 +41,8 @@ import BHeader from './components/BHeader.vue'
     flex-wrap: wrap;
   }
 } */
+
+
 .container {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   max-width: 80vw;
